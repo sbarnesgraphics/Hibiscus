@@ -1,2 +1,0 @@
-# Hibiscus
-Tutorial for githum
